@@ -63,4 +63,34 @@ The system will automatically record attendance for recognized individuals and s
 ## Project Description
 AutoAttend was devised as a solution to automate and enhance the attendance tracking process. Utilizing Raspberry Pi and OpenCV, the system has been fine-tuned to achieve exceptional accuracy in facial recognition, making it reliable for daily use in environments where managing attendance is crucial.
 
-The project has been designed with scalability in mind, allowing it to be adapted for various settings, from classrooms to corporate offices. By reducing manual intervention, AutoAttend not only saves time but also minimizes the risk of errors, making it a robust tool for managing attendance efficiently.
+The project has been designed with scalability in mind, allowing it to be adapted for various settings, from classrooms to corporate offices. By reducing manual intervention, AutoAttend not only saves time but also minimizes the risk of errors, making it a robust tool for managing attendance efficiently.  
+
+## Display of Identified Faces and Updated Excel Sheet
+Below are examples of two uploaded images and their identification by the AutoAttend system, followed by a screenshot of the updated Excel sheet where attendance was recorded.
+
+**Uploaded Pictures**:  
+
+<img width="300" alt="Uploaded_Rishu" src="https://github.com/user-attachments/assets/2647ffd5-a56a-447d-87ae-42d1e9caa74c">
+
+Figure: Uploaded picture of Person 1  
+
+  
+<img width="300" alt="Uploaded_Devanshi" src="https://github.com/user-attachments/assets/3581c4ed-42ad-445a-8890-d6b6f3d4808a">
+
+Figure: Uploaded picture of Person 2  
+
+**Identified by AutoAttend**:  
+
+<img width="300" alt="Identified_Rishu" src="https://github.com/user-attachments/assets/7f396390-2258-40d9-be3b-c6c19936c641">
+
+Figure: Person 1 identified by AutoAttend  
+
+  
+<img width="300" alt="Identified_Devanshi" src="https://github.com/user-attachments/assets/601ab3fd-94bd-40ac-9c6b-5c177bd9b5e9">
+
+
+Figure: Person 2 identified by AutoAttend  
+
+**Updated Excel Sheet**:  
+<img width="300" alt="Updared_excelsheet" src="https://github.com/user-attachments/assets/3cbcce3d-97b6-4ab2-8bfb-d0865ad2ea69">
+
